@@ -1,0 +1,51 @@
+.second-banner-text-1 {
+  animation: translateText 1s ease-out 1s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+.second-banner-text-2 {
+  animation: translateText 1s ease-out 1.8s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+.second-banner-text-3 {
+  animation: translateText 1s ease-out 2.5s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+.second-banner-text-4 {
+  animation: translateText 1s ease-out 2.7s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+@keyframes translateText {
+  0% {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+.second-banner-arrow {
+  animation: translateArrow 2s ease-out 3.5s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+@keyframes translateArrow {
+  0% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}

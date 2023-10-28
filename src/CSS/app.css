@@ -1,0 +1,187 @@
+.css-1s275f2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1330px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 30em) {
+  .css-1s275f2 {
+    padding: 0 32px;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .css-1s275f2 {
+    padding: 0 45px;
+  }
+}
+
+.css-a983kj {
+  width: 85px;
+}
+
+@media screen and (min-width: 30em) {
+  .css-a983kj {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .css-a983kj {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .css-a983kj {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 80em) {
+  .css-a983kj {
+    width: 110px;
+  }
+}
+
+.css-7k8a4g {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.css-1ggwlzr {
+  font-weight: 400 !important;
+  color: #9ea7ae;
+}
+
+.css-1ggwlzr {
+  font-weight: 400 !important;
+  color: #9ea7ae;
+}
+
+.css-1ggwlzr {
+  font-weight: 400 !important;
+  color: #9ea7ae;
+}
+
+.css-1ggwlzr {
+  font-weight: 400 !important;
+  color: #9ea7ae;
+}
+
+.css-1ggwlzr {
+  font-weight: 400 !important;
+  color: #9ea7ae;
+}
+
+.css-xcmdz3 {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  line-height: 1em;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  color: currentColor;
+  vertical-align: middle;
+  margin-right: var(--chakra-space-2);
+}
+
+.css-xcmdz3 {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  line-height: 1em;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  color: currentColor;
+  vertical-align: middle;
+  margin-right: var(--chakra-space-2);
+}
+
+.css-1s4jw3r {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 110%);
+}
+
+.JoiningFees_image-container__EFHHX {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.JoiningFees_cover__iyT4H {
+  width: 270px;
+  padding-left: 0;
+  display: inline-block;
+}
+
+.ApplyModal_input__mAI_d {
+  height: 28px !important;
+}
+
+.ApplyModal_apply-action__2og6L {
+  font-size: 0.875rem !important;
+  line-height: 1.3 !important;
+  height: 1rem !important;
+}
+
+.Logo_logo_white__zowGB {
+  width: 100px;
+  height: 80px;
+}
+
+@media screen and (min-width: 768px) {
+  .Logo_logo_white__zowGB {
+    width: 120px;
+    height: 90px;
+  }
+}
+
+.Blog_header__g14U8 {
+  background: linear-gradient(65deg, #000 45%, #068e82 80%, #fff597 105%);
+}
+
+.Blog_full-height__knBAK {
+  min-height: calc(100vh - 64px);
+}
+
+@media screen and (min-width: 640px) {
+  .Blog_header__g14U8 {
+    background-position: 80%;
+  }
+}
+
+.Blog_blank__zpw0p {
+  height: calc(100vh - (80px));
+}
+
+.Blog_blank-mobile__GY4Fr {
+  height: 100vh;
+}
+
+.Blog_blank-mobile__GY4Fr h4,
+.Blog_blank__zpw0p h4 {
+  margin-top: 24px;
+}
